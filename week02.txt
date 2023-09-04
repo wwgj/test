@@ -6,9 +6,16 @@ week02
 	- cd 
 	- git
 	- cd ..
+	- README.md
+	- cat
 
 - git command 
 	- git init git 기본 인터프리터 인스톨 
 	- git status 현재 commit된 폴더의 상태를 확인 
 	- git add 파일명 파일을 commit한다 
 	- git config --global user.email "useremail" git에 계정 동기화?
+	- git log 
+	- git checkout hashcode
+	- git checkout -
+	- git branch -M main
+
