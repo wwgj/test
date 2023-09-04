@@ -18,4 +18,5 @@ week02
 	- git checkout hashcode
 	- git checkout -
 	- git branch -M main
+	- git remote add origin https://github.com/wwgj/test.git
 
